@@ -1,0 +1,7 @@
+/.idea/
+/logs/
+/bin/
+/target/
+build.xml
+local.properties
+project.properties
